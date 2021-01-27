@@ -1,2 +1,8 @@
 # linear-regression-project
-this project has two mini project on salary data and delivery time data (which is not disclosed )
+This project has two mini project on salary data and delivery time data (which is not disclosed )
+
+
+# project 
+The first project is to build model to predict the salary with the experience.
+The second project is to build model to predict the delivery time given sorting time.
+
